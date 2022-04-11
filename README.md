@@ -1,4 +1,4 @@
-# ZYD IoT Project Backend
+# Serverless backend for IoT project
 
 This project contains source code and supporting files for a serverless application that you can deploy with the serverless framework. It includes the following files and folders:
 
